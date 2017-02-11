@@ -1,0 +1,161 @@
+[Box: ::projectInterface - ::<<Unknown>>::ActionListener]
+X=2966
+Y=499
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::Authenticator]
+X=520
+Y=439
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::ControllerListener]
+X=1567
+Y=196
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::DataSinkListener]
+X=1622
+Y=430
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::FocusListener]
+X=1677
+Y=499
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::JFrame]
+X=183
+Y=3
+
+[Box: ::projectInterface - ::<<Unknown>>::JPanel]
+X=471
+Y=383
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::KeyListener]
+X=2391
+Y=280
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::PullBufferDataSource]
+X=1943
+Y=40
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::PullBufferStream]
+X=1256
+Y=235
+Visible=0
+
+[Box: ::projectInterface - ::<<Unknown>>::Runnable]
+X=436
+Y=282
+
+[Box: ::projectInterface - ::projectInterface::Delay]
+X=854
+Y=12
+
+[Box: ::projectInterface - ::projectInterface::Delay.SetDelay]
+X=851
+Y=179
+
+[Box: ::projectInterface - ::projectInterface::IPCamera]
+X=450
+Y=103
+
+[Box: ::projectInterface - ::projectInterface::IPCamera.Draw]
+X=207
+Y=330
+Visible=0
+
+[Box: ::projectInterface - ::projectInterface::IPCamera.MyAuthenticator]
+X=453
+Y=336
+
+[Box: ::projectInterface - ::projectInterface::IPCamera.playPauseListener]
+X=457
+Y=418
+
+[Box: ::projectInterface - ::projectInterface::IPCamera.RecordListener]
+X=661
+Y=115
+
+[Box: ::projectInterface - ::projectInterface::MyAuthenticator]
+X=177
+Y=459
+Visible=0
+
+[Box: ::projectInterface - ::projectInterface::PluginsFrame]
+X=243
+Y=100
+
+[Box: ::projectInterface - ::projectInterface::PluginsFrame.addRemoveBtnHandler]
+X=212
+Y=276
+
+[Box: ::projectInterface - ::projectInterface::Recorder]
+X=660
+Y=172
+
+[Box: ::projectInterface - ::projectInterface::Recorder.ImageDataSource]
+X=1642
+Y=128
+Visible=0
+
+[Box: ::projectInterface - ::projectInterface::Recorder.ImageSourceStream]
+X=945
+Y=227
+Visible=0
+
+[Box: ::projectInterface - ::projectInterface::WifiRobotGUI]
+X=2
+Y=76
+
+[Box: ::projectInterface - ::projectInterface::WifiRobotGUI.addOnsBtnHandler]
+X=216
+Y=368
+
+[Box: ::projectInterface - ::projectInterface::WifiRobotGUI.ConnectBtnHandler]
+X=212
+Y=429
+
+[Box: ::projectInterface - ::projectInterface::WifiRobotGUI.DirectionBtnHandler]
+X=0
+Y=355
+
+[Box: ::projectInterface - ::projectInterface::WifiRobotGUI.GpsBtnHandler]
+X=8
+Y=451
+
+[Box: ::projectInterface - ::projectInterface::WifiRobotGUI.TxtHandler]
+X=0
+Y=280
+
+[Diagram: ::projectInterface]
+OffsetX=0
+OffsetY=0
+Visibility=1
+ShowAssoc=0
+
+[Box: ::protocols - ::protocols::ConnectionProtocol]
+X=241
+Y=238
+
+[Box: ::protocols - ::protocols::KmlProtocol]
+X=20
+Y=226
+
+[Box: ::protocols - ::protocols::TCPConnection]
+X=327
+Y=40
+
+[Box: ::protocols - ::protocols::UDPConnection]
+X=63
+Y=40
+
+[Diagram: ::protocols]
+OffsetX=0
+OffsetY=0
+Visibility=1
+ShowAssoc=0
+
